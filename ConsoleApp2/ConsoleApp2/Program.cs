@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-        int firstNumber = 10;
+        int firstNumber = 100;
         int secondNumber = 15;
         int totalSum = AddNumbers(firstNumber, secondNumber);
 
